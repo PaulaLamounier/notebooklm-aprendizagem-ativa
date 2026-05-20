@@ -43,4 +43,16 @@ Como IA pode apoiar processos de discovery e Lean Inception?
 ## Para Estudos Executivos
 Resuma as principais tendências de IA corporativa para executivos.
 
+## Resumo Inicial
+
+Liste as principais tendências de IA corporativa para 2026 com foco em impacto estratégico para empresas.
+
+## Visão Executiva
+
+Explique como líderes de negócios podem estruturar uma visão estratégica para adoção de IA corporativa.
+
+## Relação entre IA e Métodos Ágeis
+
+Como IA corporativa pode apoiar práticas de Lean Inception, Scrum e análise de negócios?
+
 
