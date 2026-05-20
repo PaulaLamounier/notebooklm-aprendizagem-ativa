@@ -43,17 +43,14 @@ As seguintes fontes foram adicionadas ao NotebookLM para análise e geração do
 
 ## Prompt 1 — Resumo Inicial
 
-```text
 Liste as principais tendências de IA corporativa para 2026 com foco em impacto estratégico para empresas.
 
 ## Prompt 2 — Visão Executiva
 
-```text
 Explique como líderes de negócios podem estruturar uma visão estratégica para adoção de IA corporativa.
 
-## Prompt 2 — Relação entre IA e Métodos Ágeis
+## Prompt 3 — Relação entre IA e Métodos Ágeis
 
-```text
 Como IA corporativa pode apoiar práticas de Lean Inception, Scrum e análise de negócios?
 
 # 💡 Insights Obtidos:
