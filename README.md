@@ -53,8 +53,11 @@ Explique como líderes de negócios podem estruturar uma visão estratégica par
 
 Como IA corporativa pode apoiar práticas de Lean Inception, Scrum e análise de negócios?
 
-# 💡 Insights Obtidos:
+# 💡 Insights Obtidos
 
-- A qualidade do prompt influencia diretamente na profundidade da resposta;
-- IA funciona melhor como apoio ao pensamento crítico, não como substituição;
-- Curadoria de fontes é tão importante quanto a ferramenta utilizada.
+- IA tende a se tornar parte central da estratégia corporativa;
+- O papel do analista de negócios será fortemente impactado por IA generativa;
+- Métodos ágeis podem ganhar velocidade e precisão com apoio de IA;
+- Engenharia de prompts se torna habilidade estratégica;
+- O diferencial humano continuará sendo pensamento crítico e visão sistêmica.
+
